@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#parrafo {
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
