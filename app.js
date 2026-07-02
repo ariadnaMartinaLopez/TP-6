@@ -33,4 +33,7 @@ btnReiniciar.onclick = function () {
     parrafo.style.backgroundColor = "white";
     parrafo.style.fontFamily = "Arial";
     parrafo.style.fontSize = "20px";
+
+    
 };
+
