@@ -8,7 +8,7 @@ let btnTamano = document.getElementById("btnTamano");
 let btnReiniciar = document.getElementById("btnReiniciar");
 
 btnFondo.onclick = function () {
-    parrafo.style.backgroundColor = "yellow";
+    parrafo.style.backgroundColor = "pink";
 };
 
 btnTexto.onclick = function () {
@@ -16,7 +16,7 @@ btnTexto.onclick = function () {
 };
 
 btnColor.onclick = function () {
-    parrafo.style.color = "red";
+    parrafo.style.color = "rgb(132, 97, 165";
 };
 
 btnLetra.onclick = function () {
